@@ -1,0 +1,20 @@
+
+RocketF.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rocket1
+  rotate: false
+  xy: 2, 2
+  size: 174, 75
+  orig: 174, 75
+  offset: 0, 0
+  index: -1
+rocket2
+  rotate: false
+  xy: 178, 2
+  size: 174, 75
+  orig: 174, 75
+  offset: 0, 0
+  index: -1
